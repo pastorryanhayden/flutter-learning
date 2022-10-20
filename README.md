@@ -1,6 +1,6 @@
 # mynotes
 
-A new Flutter project.
+I'm following  the course from [Vandad Nahavandipoor](https://www.youtube.com/watch?v=wFn-m-OgKPU&list=PL6yRaaP0WPkVtoeNIGqILtRAgd3h2CNpT&index=9) on YouTube.
 
 ## Getting Started
 
